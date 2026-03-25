@@ -180,4 +180,38 @@
 .text{
     margin-bottom: 32px;
 }
+.get-section{
+    margin-top: 60px;
+    margin-bottom: 60px;
+}
+.back-image{
+    height: 300px;
+    width: 1100px;
+    background-image: url("../Flower Asset/Rectangle 9.png");
+    background-size: cover;
+    margin : 0 auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.text-get{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.input{
+    height : 43px;
+    width: 500px;
+    border: none;
+    border-radius: 5px;
+    margin-right: 8px;
+    padding-left: 24px;
+}
+.btn-input{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 24px;
+}
+
 
