@@ -20,9 +20,7 @@
 
 #hero{
     height: 100vh;
-    background-color: rgba(229, 84, 115, 0.1);
-
-    
+    background-color: rgba(229, 84, 115, 0.1);   
 }
 .container{
     width : 1100px;
@@ -182,7 +180,7 @@
 }
 .get-section{
     margin-top: 60px;
-    margin-bottom: 60px;
+    margin-bottom: 100px;
 }
 .back-image{
     height: 300px;
@@ -212,6 +210,31 @@
     justify-content: center;
     align-items: center;
     margin-top: 24px;
+}
+.footer{
+    margin-top: 40px;
+    background-color: #111010;
+    height: 250px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+}
+.f-title{
+    color: #E55473;
+    text-align: center;
+}
+.f-shop{
+    color : white;
+}
+.f-content p{
+    text-align: center;
+    margin-top: 12px;
+    margin-bottom: 32px;
+}
+.copyright{
+    color: gray;
+    font-size: 12px;
 }
 
 
