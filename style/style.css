@@ -1,0 +1,51 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,100;0,300;0,400;0,700;0,900;1,100;1,300;1,400;1,700;1,900&display=swap');
+
+.lato {
+  font-family: "Lato", sans-serif;
+}
+
+.lato-thin { font-weight: 100; }
+.lato-light { font-weight: 300; }
+.lato-regular { font-weight: 400; }
+.lato-bold { font-weight: 700; }
+.lato-black { font-weight: 900; }
+
+.italic { font-style: italic; }
+
+*{
+    margin: 0px 2px 2px 2px;
+    padding: 2px;
+}
+
+#hero{
+    height: 100vh;
+    background-color: rgba(229, 84, 115, 0.1);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap : 10px;
+}
+.img{
+    height: 550px;
+    /* width : 100px; */
+}
+.left-side{
+    font-size: 60px;
+}
+.hero-p{
+    font-size: 18px;
+    line-height: 30px;
+    color: gray;
+    margin-top: 20px;
+}
+.btn{
+    font-size : 16px;
+    font-style: bold;
+    background-color: #E55473;
+    padding: 12px 12px;
+    border: none;
+    border-radius: 5px;
+    color: white;
+
+}
+
