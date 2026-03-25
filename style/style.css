@@ -157,5 +157,27 @@
     justify-content: center;
     align-items: center;
 }
-
+.text h3{
+    text-align: center;
+    margin-bottom: 12px;
+}
+.text p{
+    text-align: center;
+}
+.instagram{
+    margin-top: 60px;
+    margin-bottom: 80px;
+}
+.all-image{
+    width : 1100px;
+    margin: 0 auto;
+    display: flex;
+    justify-content: space-evenly;
+}
+.img-size{
+    height : 300px;
+}
+.text{
+    margin-bottom: 32px;
+}
 
