@@ -96,6 +96,27 @@
     display: flex;
     margin-bottom: 30px;
     margin-top: 30px;
+    justify-content: space-between;
+}
+.support{
+    height: 200px;
+    background-color: rgba(39, 39, 39, 0.05);
+    margin-top : 100px;
+    margin-bottom: 80px;
+    border-radius: 8px;
+}
+.group{
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 10px;
+    color : rgb(95, 93, 93);
+}
+.support{
+    display: flex;
     justify-content: space-around;
 }
+
 
