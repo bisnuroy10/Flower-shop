@@ -118,5 +118,44 @@
     display: flex;
     justify-content: space-around;
 }
+.hot-deal{
+    height: 50vh;
+    background-color: rgba(229, 84, 115, 0.05);
+    margin-top: 60px;
+    margin-bottom: 50px;
+}
+.left span{
+    color: #E55473;
+}
+.left p{
+    text-align: center;
+    margin-bottom: 16px;
+    margin-top: 16px;
+}
+.left h3{
+    text-align: center;
+}
+.left button{
+    text-align: center;
+}
+.btn-box{
+    display: center;
+    justify-content: center;
+    align-items: center;
+}
+.main{
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    text-align: center;
+}
+.image-hot{
+    height: 200px;
+}
+.hot-deal{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
 
 
